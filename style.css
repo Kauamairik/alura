@@ -13,7 +13,7 @@
     padding: 0 100px 0 0 ;
 }
 .cabecalho-lista-item{
-    display: inline-flex;
+    display: inline-flexbox;
     margin: 0 12px;
     font-size: 24px;
 }
