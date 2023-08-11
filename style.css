@@ -12,8 +12,14 @@
     width: 8%;
     padding: 0 100px 0 0 ;
 }
+
 .cabecalho-lista-item{
     display: inline-flexbox;
     margin: 12PX 12px;
     font-size: 24px;
+}
+
+.img1{
+width: 50%;
+
 }
